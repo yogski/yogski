@@ -4,6 +4,10 @@ I describe myself as developer with business acumen, somehow managed to get engi
 I identify the business problem, talk to people, crunch numbers, translate it to technical statements, discuss the solution and trade-offs, build the solution, and deliver the solution.
 Communication is as important as the code.
 
+### But First, Why Isn't My Github Commit History Lush Green, Thriving with Commits?
+- This is personal Github account. I have other Github accounts for work/project purpose.
+- All repositories in this account are open-source
+
 ### Current Occupation 👨‍🔧
 - Senior Full Stack Developer at Pinjammodal
 - Freelance IT consultant
