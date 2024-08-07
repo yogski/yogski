@@ -6,10 +6,10 @@ Communication is as important as the code.
 
 ### But First, Why Isn't My Github Commit History Lush Green, Thriving with Commits?
 - This is personal Github account. I have other Github accounts for work/project purpose.
-- All repositories in this account are open-source
+- All repositories in this account are open-source.
 
 ### Current Occupation 👨‍🔧
-- Senior Full Stack Developer at Pinjammodal
+- Senior Software Engineer at [Privy](https://privy.id)
 - Freelance IT consultant
 
 ### Tech Stack 🚀
@@ -20,12 +20,12 @@ Communication is as important as the code.
 - SQL Databases: MySQL, PostgreSQL
 - NoSQL Databases: MongoDB, Redis, QuestDB, Neo4J
 - Modern Architecture: AWS, Alibaba Cloud, Linux, Docker, Kafka/RabbitMQ
-- SDLC Practices: Git, CI/CD, REST API, GraphQL, Unit Test
+- SDLC Practices: Git, CI/CD, REST API, GraphQL, Test Suites (unit test, performance test)
 - Mixing all above together to solve business and technical problems
 
 ### Currently Learning 📚
-- Tech in finance
-- Some alternatives to React
+- Relearning Golang...
+- Advanced coding pattern
 
 ### I Write Some Technical Articles in Bahasa Indonesia or English as well 📰
 - `Dealing With Enum Types in PostgreSQL` on [dev.to](https://dev.to/yogski/dealing-with-enum-type-in-postgresql-1j3g)
