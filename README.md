@@ -9,7 +9,7 @@ Communication is as important as the code.
 - All repositories in this account are open-source.
 
 ### Current Occupation 👨‍🔧
-- Senior Software Engineer at [Privy](https://privy.id)
+- Tech lead at [Alto Networks](https://alto.id)
 - Freelance IT consultant
 
 ### Tech Stack 🚀
@@ -27,11 +27,9 @@ Communication is as important as the code.
 - Relearning Golang...
 - Advanced coding pattern
 
-### I Write Some Technical Articles in Bahasa Indonesia or English as well 📰
-- `Dealing With Enum Types in PostgreSQL` on [dev.to](https://dev.to/yogski/dealing-with-enum-type-in-postgresql-1j3g)
-- `Optimizing Conditional Bulk Insert in Node.js` on [dev.to](https://dev.to/yogski/optimizing-conditional-bulk-insert-in-node-js-postgresql-26gd)
-- `Arsitektur Microservice untuk Data Publik (Bagian 1)` on [Medium](https://medium.com/@yogisaputro/arsitektur-microservice-untuk-data-publik-bagian-1-68a387d9fabe)
-- `Arsitektur Microservice untuk Data Publik (Bagian 2)` on  [Medium](https://medium.com/@yogisaputro/arsitektur-microservice-untuk-data-publik-bagian-2-implementasi-dengan-next-js-7e437cab7724)
+### I Write Some Articles in Bahasa Indonesia or English as well 📰
+- Technical articles on [dev.to](https://dev.to/yogski)
+- General articles on [Medium](https://medium.com/@yogisaputro)
 
 ### How to reach me 📬
 - Email: `yogisaputro@outlook.com`
